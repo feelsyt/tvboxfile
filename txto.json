@@ -16,7 +16,7 @@
 	    }],
 # 直播
 //"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2ZyZWVkLnl1YW5oc2luZy5jZi90di9saXZlLnR4dA=="]}]}],
-"wallpaper": "https://深色壁纸.xxooo.cf/",
+"wallpaper": "http://home.jundie.top:81/image/w20.png",
 "sites":[
 {"key":"csp_LiteApple","name":"🍎小苹果(SP)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable": 1},
 #更新的
