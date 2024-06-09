@@ -13,7 +13,15 @@
            // "url":"http://gitee.com/sytsoft_163/tvboxjson/raw/master/TVzb.json",
 		    "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
                     "logo": "https://epg.112114.xyz/logo/{name}.png"
-	    }],
+	    },{
+      "name": "IPV6",
+      "type": 0,
+      "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
+      "playerType": 1,
+      "ua": "okhttp/3.15",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    }],
 # 直播
 //"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2ZyZWVkLnl1YW5oc2luZy5jZi90di9saXZlLnR4dA=="]}]}],
 "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
