@@ -38,7 +38,16 @@
             "filterable": 0
         },
 	{"key":"学外语","name":"📚学外语","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://weixine.net/sub/waiyu.json"},
-       {
+      {
+            "key": "课堂教育",
+            "name": "课堂教育",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "https://xhdwc.tk/json/xx1.json"
+        }, {
             "key": "少儿",
             "name": "📚┃少儿教育",
             "type": 3,
