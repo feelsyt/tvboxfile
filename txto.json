@@ -4,8 +4,8 @@
 
 {
 ## spider
-//"spider":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar",
-"spider":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/feelsyt/tvboxfile/main/xbb4.jar",
+"spider":"http://www.lyyytv.cn/yt/yt.jar",
+//"spider":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/feelsyt/tvboxfile/main/xbb4.jar",
 "lives": [{
 		    "name": "live",
 		    "type": 0,
